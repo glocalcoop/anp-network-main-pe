@@ -1,0 +1,17 @@
+{
+  "name": "glocalcoop/anp-network-main-cosecha",
+  "type": "wordpress-theme",
+  "license": "GPL-3.0",
+  "description": "Child theme starter for ANP main network site",
+  "homepage": "https://github.com/glocalcoop/anp-network-main-cosecha",
+  "authors": [
+    {
+      "name": "Pea, Glocal",
+      "email": "pea@glocal.coop",
+      "homepage": "https://github.com/misfist"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ]
+}
